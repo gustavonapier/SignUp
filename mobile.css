@@ -1,5 +1,13 @@
 /* Estilos para dispositivos móveis */
 @media (max-width: 480px) {
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+  
     .container {
       max-width: 90%;
       padding: 15px;
