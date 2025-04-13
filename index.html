@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style-language.css">
+    <title>Sign Up</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Escolha seu idioma / Choose your language</h1>
+        <div class="btn-group">
+          <button onclick="irParaCadastro('pt')">Português</button>
+          <button onclick="irParaCadastro('en')">English</button>
+        </div>
+      </div>
+
+    <script>
+        function irParaCadastro(lang) {
+            if (lang === 'pt') {
+                window.location.href = "cadastro-pt.html";
+            } else if (lang === 'en') {
+                window.location.href = "cadastro-en.html";
+            }
+        }
+    </script>
+</body>
+</html>
