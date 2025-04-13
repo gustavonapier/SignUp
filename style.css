@@ -8,11 +8,12 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #f0f0f0;
     color: #333;
+    height: 100vh;  /* A altura do body vai ser 100% da altura da tela */
+    margin: 0;
     display: flex;
     justify-content: center;
-    align-items: center;
-    height: 100vh;  /* Garante que o corpo ocupe a tela toda */
-    margin: 0;
+    align-items: center;  /* Centraliza o conteúdo na tela */
+    overflow: hidden;  /* Impede que a tela tenha rolagem */
 }
 
 .container {
