@@ -1,6 +1,6 @@
 # Projeto SignUp 
 
-Uma página simples de **cadastro e login** feita com **HTML** e **CSS**. Desenvolvido com foco em estudos de **front-end** e estruturação básica de formulários.
+Uma página simples de **cadastro e login** feita com **HTML** e **CSS** baseada no linguagem que o usuário escolher. Desenvolvido com foco em estudos de **front-end** e estruturação básica de formulários.
 
 ---
 
@@ -8,7 +8,8 @@ Uma página simples de **cadastro e login** feita com **HTML** e **CSS**. Desenv
 
 ![image](https://github.com/user-attachments/assets/47bbd5a4-544e-4dc9-9e53-44ceedc64b08)
 ![image](https://github.com/user-attachments/assets/fc030704-3bee-4ca1-a5c6-7e533cd41ab2)
-![image](https://github.com/user-attachments/assets/bb4a3c30-ec56-47a7-8126-33cdcd24edf4)
+![image](https://github.com/user-attachments/assets/fdf5b92b-f57e-4282-b84a-0c8846734759)
+
 
 ---
 
